@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "answer": 3,
+        "question": " Which of the following keywords is used to define a variable in Javascript?",
+        "options": [
+            "var",
+            "let",
+            "Both 1 & 2",
+            "None"
+        ]
+    },
+    {
+        "id": 2,
+        "answer": 4,
+        "question": "Which of the following methods can be used to display data in some form using Javascript?",
+        "options": [
+            "document.write()",
+            "console.log()",
+            "window.alert()",
+            "All the above"
+        ]
+    },
+    {
+        "id": 3,
+        "answer": 1,
+        "question": "How can a datatype be declared to be a constant type?",
+        "options": [
+            "const",
+            "var",
+            "let",
+            "constant"
+        ]
+    },
+    {
+        "id": 4,
+        "answer": 3,
+        "question": "When an operator’s value is NULL, the typeof returned by the unary operator is:",
+        "options": [
+            "Boolean",
+            "Undefined",
+            "Object",
+            "Integer"
+        ]
+    },
+    {
+        "id": 5,
+        "answer": 2,
+        "question": "Which of the following is not a Javascript framework?",
+        "options": [
+            "Node",
+            "Vue",
+            "React",
+            "Cassendra"
+        ]
+    },
+    {
+        "id": 6,
+        "answer": 3,
+        "question": " Which of the following keywords is used to define a variable in Javascript?",
+        "options": [
+            "var",
+            "let",
+            "Both 1 & 2",
+            "None"
+        ]
+    },
+    {
+        "id": 7,
+        "answer": 4,
+        "question": "Which of the following methods can be used to display data in some form using Javascript?",
+        "options": [
+            "document.write()",
+            "console.log()",
+            "window.alert()",
+            "All the above"
+        ]
+    },
+    {
+        "id": 8,
+        "answer": 1,
+        "question": "How can a datatype be declared to be a constant type?",
+        "options": [
+            "const",
+            "var",
+            "let",
+            "constant"
+        ]
+    },
+    {
+        "id": 9,
+        "answer": 3,
+        "question": "When an operator’s value is NULL, the typeof returned by the unary operator is:",
+        "options": [
+            "Boolean",
+            "Undefined",
+            "Object",
+            "Integer"
+        ]
+    },
+    {
+        "id": 10,
+        "answer": 4,
+        "question": "Which of the following is not a Javascript framework?",
+        "options": [
+            "Node",
+            "Vue",
+            "React",
+            "Cassendra"
+        ]
+    }
+]
